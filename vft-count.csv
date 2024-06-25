@@ -1,0 +1,27 @@
+Field,Value
+Title,Vehicle Fuel Type Count by Zip Code
+URL,vehicle-fuel-type-count-by-zip-code
+Description,"<p>These reports provides vehicle counts broken down by ZIP code, model year, fuel type, make and duty (light/heavy) of registered vehicles with specific as of dates.</p>
+"
+Tags,"Battery Electric,California Zip Codes,Ethanol,Fuel Cell,Fuel Type,Hybrid Gas,Plug-In Hybrid,diesel,gasoline"
+License,
+Topics,Transportation
+Organization,California Department of Motor Vehicles
+Public Access Level,Public
+Rights,No Restrictions on Public Use
+Program Contact Name,"DMV, Information Policy & Liaison Branch"
+Program Contact Email,CPDISBPIPS@dmv.ca.gov
+Author,Department of Motor Vehicles
+Homepage URL,
+Frequency,Irregular
+Temporal Coverage,
+Granularity,
+Geographic Coverage Location,
+Spatial,
+Data Standard,
+Language,
+Source Link,
+Additional Information,"[Missing Make Values] Due to privacy concerns, we mask vehicle makes for ZIP/Model Year/Fuel/Make combinations below 10 vehicles and lump them together into an “Other/Unknown” make."
+Related Resources,
+Secondary Sources,
+Citation,
